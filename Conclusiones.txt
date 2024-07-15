@@ -1,0 +1,18 @@
+Conclusiones del ejercicio de prueba funcional automatizada (Prueba E2E) en DemoBlaze
+
+Se completó con éxito una prueba funcional automatizada del flujo de compra en la página web https://www.demoblaze.com/. El enfoque principal fue verificar la funcionalidad de diversas etapas críticas en el proceso de compra, empleando programación declarativa. A continuación, se detallan las conclusiones obtenidas:
+
+Adición de productos al carrito:
+
+Utilizando programación declarativa, se logró agregar dos productos al carrito de manera efectiva. Los productos fueron seleccionados y añadidos correctamente a la cesta de compras. Uno de los desafíos destacados fue el manejo de alertas durante el llenado del formulario de compra.
+
+Visualización del carrito:
+La prueba validó que el carrito de compras se visualizó correctamente tras la adición de productos.
+
+Completado del formulario de compra:
+Mediante técnicas de programación declarativa, se gestionaron exitosamente las alertas emergentes, garantizando que todos los campos requeridos se completaran sin problemas y se validaran correctamente.
+
+Finalización de la compra:
+Se utilizó programación declarativa para manejar de manera efectiva las alertas que podrían surgir durante el proceso de finalización de la compra. Se verificó que el pago se procesó adecuadamente y se obtuvo la confirmación de compra esperada.
+
+En resumen, todas las etapas del flujo de compra en DemoBlaze fueron validadas exitosamente mediante pruebas E2E automatizadas, enfrentando y superando el desafío del manejo de alertas mediante programación declarativa. Esta experiencia resaltó la importancia de utilizar técnicas robustas de automatización para garantizar la integridad y funcionalidad del proceso de compra en la plataforma web de DemoBlaze.
